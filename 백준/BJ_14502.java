@@ -7,9 +7,9 @@ public class BJ_14502 {
     public static int m;
     public static ArrayList<int[]> virus=new ArrayList<>();
     public static int[][] map;
-    public static int[][] visited;
     public static int[] dx={1,-1,0,0};
     public static int[] dy={0,0,1,-1};
+
 
     public static void main(String[] args)throws IOException {
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
@@ -17,7 +17,6 @@ public class BJ_14502 {
         n = Integer.parseInt(st.nextToken());
         m = Integer.parseInt(st.nextToken());
         map = new int[n][m];
-        visited = new int[n][m];
 
         for (int i = 0; i < n; i++) {
             st = new StringTokenizer(br.readLine());
