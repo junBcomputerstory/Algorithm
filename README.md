@@ -11,7 +11,7 @@
 |  3  |1753|[최단 경로](https://www.acmicpc.net/problem/1753)|<img height="25px" width="25px" src="https://d2gd6pc034wcta.cloudfront.net/tier/12.svg">|😃|
 |  4  |14500|[테트로미노](https://www.acmicpc.net/problem/14500)|<img height="25px" width="25px" src="https://d2gd6pc034wcta.cloudfront.net/tier/12.svg">|😃|
 |  5  |11054|[가장 긴 바이토닉 부분 수열](https://www.acmicpc.net/problem/141054)|<img height="25px" width="25px" src="https://d2gd6pc034wcta.cloudfront.net/tier/12.svg">|😃|
-|  6  |1987|[알파벳](https://www.acmicpc.net/problem/1987)|<img height="25px" width="25px" src="https://d2gd6pc034wcta.cloudfront.net/tier/12.svg">|🥲|
+|  6  |1987|[알파벳](https://www.acmicpc.net/problem/1987)|<img height="25px" width="25px" src="https://d2gd6pc034wcta.cloudfront.net/tier/12.svg">|😃|
 
 
 </details>
