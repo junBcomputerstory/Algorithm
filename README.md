@@ -14,6 +14,7 @@
 |  6  |1987|[알파벳](https://www.acmicpc.net/problem/1987)|<img height="25px" width="25px" src="https://d2gd6pc034wcta.cloudfront.net/tier/12.svg">|😃|
 |  7  |3190|[뱀](https://www.acmicpc.net/problem/3190)|<img height="25px" width="25px" src="https://d2gd6pc034wcta.cloudfront.net/tier/12.svg">|😃|
 |  8  |2023|[신기한 소수](https://www.acmicpc.net/problem/2023)|<img height="25px" width="25px" src="https://d2gd6pc034wcta.cloudfront.net/tier/11.svg">|😃|
+|  9  |12865|[평범한 배낭](https://www.acmicpc.net/problem/12865)|<img height="25px" width="25px" src="https://d2gd6pc034wcta.cloudfront.net/tier/11.svg">|😃|
 
 
 </details>
