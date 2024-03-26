@@ -16,8 +16,9 @@
 |  8  |2023|[신기한 소수](https://www.acmicpc.net/problem/2023)|<img height="25px" width="25px" src="https://d2gd6pc034wcta.cloudfront.net/tier/11.svg">|😃|
 |  9  |12865|[평범한 배낭](https://www.acmicpc.net/problem/12865)|<img height="25px" width="25px" src="https://d2gd6pc034wcta.cloudfront.net/tier/11.svg">|😃|
 |  10  |15683|[감시](https://www.acmicpc.net/problem/15683)|<img height="25px" width="25px" src="https://d2gd6pc034wcta.cloudfront.net/tier/12.svg">|😃|
-|  10  |1759|[암호만들기](https://www.acmicpc.net/problem/1759)|<img height="25px" width="25px" src="https://d2gd6pc034wcta.cloudfront.net/tier/11.svg">|😃|
-|  11  |2457|[공주님의 정원](https://www.acmicpc.net/problem/2457)|<img height="25px" width="25px" src="https://d2gd6pc034wcta.cloudfront.net/tier/13.svg">|😃|
+|  11  |1759|[암호만들기](https://www.acmicpc.net/problem/1759)|<img height="25px" width="25px" src="https://d2gd6pc034wcta.cloudfront.net/tier/11.svg">|😃|
+|  12  |2457|[공주님의 정원](https://www.acmicpc.net/problem/2457)|<img height="25px" width="25px" src="https://d2gd6pc034wcta.cloudfront.net/tier/13.svg">|😃|
+|  13  |4486|[젤다지?](https://www.acmicpc.net/problem/4485)|<img height="25px" width="25px" src="https://d2gd6pc034wcta.cloudfront.net/tier/11.svg">|😃|
 
 
 </details>
