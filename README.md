@@ -19,6 +19,7 @@
 |  11  |1759|[암호만들기](https://www.acmicpc.net/problem/1759)|<img height="25px" width="25px" src="https://d2gd6pc034wcta.cloudfront.net/tier/11.svg">|😃|
 |  12  |2457|[공주님의 정원](https://www.acmicpc.net/problem/2457)|<img height="25px" width="25px" src="https://d2gd6pc034wcta.cloudfront.net/tier/13.svg">|😃|
 |  13  |4486|[젤다지?](https://www.acmicpc.net/problem/4485)|<img height="25px" width="25px" src="https://d2gd6pc034wcta.cloudfront.net/tier/12.svg">|😃|
+|  14  |2239|[스도쿠](https://www.acmicpc.net/problem/2239)|<img height="25px" width="25px" src="https://d2gd6pc034wcta.cloudfront.net/tier/12.svg">|😃|
 
 
 </details>
