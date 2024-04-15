@@ -1,7 +1,7 @@
 import java.io.*;
 import java.util.*;
 
-public class Algo2_서울_19_석홍준 {
+public class BJ_2457 {
 	static int[] days = new int[] {0,31,59,90,120,151,181,212,243,273,304,334};//각월 시작점의 전날의 날짜 누적을 저장해놓음
 	static int answer;
 	static int start = 60;//3월 1일
