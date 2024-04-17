@@ -23,6 +23,7 @@
 | 15 | 3055  |        [탈출](https://www.acmicpc.net/problem/3055)         | <img height="25px" width="25px" src="https://d2gd6pc034wcta.cloudfront.net/tier/12.svg"> |😃|
 | 16 | 2206  |    [벽 부수고 이동하기](https://www.acmicpc.net/problem/2206)     | <img height="25px" width="25px" src="https://d2gd6pc034wcta.cloudfront.net/tier/13.svg"> |😃|
 | 17 | 2252  |       [줄 세우기](https://www.acmicpc.net/problem/2252)       | <img height="25px" width="25px" src="https://d2gd6pc034wcta.cloudfront.net/tier/13.svg"> |😃|
+| 18 | 1516  |       [게임 개발](https://www.acmicpc.net/problem/1516)       | <img height="25px" width="25px" src="https://d2gd6pc034wcta.cloudfront.net/tier/13.svg"> |😃|
 
 
 </details>
